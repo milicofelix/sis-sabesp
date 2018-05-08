@@ -178,6 +178,7 @@ return [
         MILICO\Providers\EventServiceProvider::class,
         MILICO\Providers\RouteServiceProvider::class,
         Prettus\Repository\Providers\RepositoryServiceProvider::class,
+        \MILICO\Providers\RepositoryServiceProvider::class,
 
     ],
 
